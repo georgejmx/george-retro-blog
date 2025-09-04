@@ -1,15 +1,21 @@
 [
   {
-    "name": "StructDiff",
-    "imageName": "placeholder.jpeg",
-    "url": "https://github.com/georgejmx/struct-diff",
-    "description": "Determine the relative structure of different websites using vector based search"
-  },
-  {
     "name": "Phantasos",
     "imageName": "phantasos.png",
     "url": "https://phantasos.vercel.app",
     "description": "A private, minimalist dream logger app"
+  },
+  {
+    "name": "Ampelios",
+    "imageName": "placeholder.jpeg",
+    "url": "https://github.com/georgejmx/ampelios",
+    "description": "Automatic customer segmentation and clustering pipeline"
+  },
+  {
+    "name": "StructDiff",
+    "imageName": "placeholder.jpeg",
+    "url": "https://github.com/georgejmx/struct-diff",
+    "description": "Determine the relative structure of different websites using vector based search"
   },
   {
     "name": "FlowPass",
