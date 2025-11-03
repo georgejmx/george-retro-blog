@@ -64,7 +64,7 @@ export default function HomePanel(): JSX.Element {
           src="images/logos/spotify-16.png"
         />
         <p className="inline text-orange-400 text-sm font-bold">
-          21 pilots, NF, Prince
+          Muse, 21 pilots
         </p>
       </div>
       <QuoteFinder />
