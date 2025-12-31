@@ -1,1 +1,10 @@
-Enter the fractalverse at [georgejmx.dev](https://georgejmx.dev)
+# george-retro-blog
+
+Retro style interactive blog with 3D graphics
+
+## Build and run
+
+```bash
+npm install
+npm run dev
+```
